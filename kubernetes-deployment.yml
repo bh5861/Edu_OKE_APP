@@ -1,4 +1,4 @@
-apiVersion: apps/v1                   #extensions/v1beta1
+apiVersion: extensions/v1beta1                   #extensions/v1beta1 apps/v1
 kind: Deployment
 metadata:
   name: jpetstore-deployment
